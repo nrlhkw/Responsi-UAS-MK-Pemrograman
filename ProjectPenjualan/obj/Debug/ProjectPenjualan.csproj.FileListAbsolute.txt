@@ -1,0 +1,6 @@
+C:\Users\Kiki\Downloads\Petunjuk dan Soal Responsi\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+C:\Users\Kiki\Downloads\Petunjuk dan Soal Responsi\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+C:\Users\Kiki\Downloads\Petunjuk dan Soal Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojAssemblyReference.cache
+C:\Users\Kiki\Downloads\Petunjuk dan Soal Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.CoreCompileInputs.cache
+C:\Users\Kiki\Downloads\Petunjuk dan Soal Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+C:\Users\Kiki\Downloads\Petunjuk dan Soal Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
